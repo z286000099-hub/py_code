@@ -24,5 +24,6 @@ print(greet)
 a,b,c=-1,-2,3
 rusult1 = (-b + math.sqrt(b**2-4*a*c))/(2*a)
 rusult2 = (-b - math.sqrt(b**2-4*a*c))/(2*a)
+
 print("x1=", rusult1," x2=", rusult2)
 
