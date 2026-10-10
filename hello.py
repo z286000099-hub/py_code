@@ -20,7 +20,7 @@ str1=''' 沁园春·雪
 greet="hello"
 print(greet)
 
-#执行math库数学运算
+#引入math库 然后执行数学运算
 a,b,c=-1,-2,3
 rusult1 = (-b + math.sqrt(b**2-4*a*c))/(2*a)
 rusult2 = (-b - math.sqrt(b**2-4*a*c))/(2*a)
