@@ -14,4 +14,13 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 print("version1签出test1")
 
+'''大小写切换'''
+str1="ok"
+str2=str1.upper()
+print(str1,str2)
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
+
+sum1 = 0
+for i in range(1,101) :
+    sum1 += i
+print("1加到100等于：",sum1)
